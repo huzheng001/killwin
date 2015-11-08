@@ -1,0 +1,10 @@
+killwin1.0
+这是一个恶作剧软件,修复的方法是
+1.开机进dos(在开机后出现starting windows9x 时马上按F8或者按住Ctrl不放,
+   然后在出现的菜单中选5;或用启动盘启动);
+2打edit c:\windows\system.ini(这个要根据自己的windows目录来定)
+   把shell=这一行改为 shell=explorer.exe
+3保存退出,重新起动.
+                                      2000.2.9
+                                    湖南岳阳市一中高2 (273)汤浩,(271)胡正 
+                                     伊妹儿:huzheng@21cn.com 
